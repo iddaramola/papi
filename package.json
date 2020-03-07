@@ -3,7 +3,7 @@
   "private": true,
   "description": "e-commerce web app for Papitrends store, Germany",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Idowu Daramola <idowu.daramola@gmail.com>",
   "dependencies": {
     "bootstrap": "^4.4.1",
     "gatsby": "^2.19.7",
